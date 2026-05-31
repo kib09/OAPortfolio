@@ -5,7 +5,6 @@ export function Education() {
     <section id="education" className="section">
       <div className="container">
         <h2 className="section-title">교육 · 자격</h2>
-        <p className="section-desc">IT·웹 개발 교육과 현장 업무에 필요한 자격입니다.</p>
 
         <div className="education__grid">
           <div className="education__column">

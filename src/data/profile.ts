@@ -175,8 +175,8 @@ export const education = [
 ];
 
 export const certifications = [
-  { name: '1종 보통 운전면허', date: '2021.11', note: '현장·외근 업무 수행 가능' },
-  { name: '부대 모범 용사상', date: '2020.06', note: '8사단 228부대' },
+  { name: '1종 보통 운전면허', date: '2021.11', note: '' },
+  { name: '부대 모범 용사상', date: '2020.06', note: '' },
 ];
 
 export const growthNote = {
