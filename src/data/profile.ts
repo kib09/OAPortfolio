@@ -8,8 +8,8 @@ export const profile = {
   birthYear: 1999,
   email: 'dslqoehf@gmail.com',
   phone: '010-6451-2662',
-  /** public 폴더 기준 경로 */
-  photo: '/증명사진.jpg',
+  /** public 폴더 — BASE_URL 포함 (GitHub Pages 서브경로 대응) */
+  photo: `${import.meta.env.BASE_URL}profile.jpg`,
   photoAlt: '김인배 증명사진',
 };
 
