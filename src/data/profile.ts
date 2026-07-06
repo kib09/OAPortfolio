@@ -91,7 +91,7 @@ export const experiences = [
   {
     company: '기산전자',
     role: '계약직 · 지폐계수기 SW 유지보수',
-    period: '2026.02 – 2026.04',
+    period: '2026.03 – 2026.04',
     type: 'oa' as const,
     highlights: [
       '서울권 은행 약 90개 지점, 500대 이상 지폐계수기 소프트웨어 업데이트 수행',
@@ -103,7 +103,7 @@ export const experiences = [
   {
     company: '아이에듀피아',
     role: '아르바이트 · 관공서 OA 설치',
-    period: '2025.11 – 2026.02',
+    period: '2026.02 – 2026.02',
     type: 'oa' as const,
     highlights: [
       '관공서 내 사무기기 신규 설치 및 네트워크 연동',
@@ -137,7 +137,7 @@ export const experiences = [
   {
     company: 'est-soft',
     role: '프리랜서 · IT 부트캠프 마케팅',
-    period: '2025.09 – 2026.11',
+    period: '2025.10 – 2025.11',
     type: 'other' as const,
     highlights: [
       'IT 비전문가 대상 키워드 분석·콘텐츠 기획',
